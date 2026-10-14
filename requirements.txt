@@ -1,4 +1,3 @@
-:::writing{variant=“standard” id=“58316” title=“requirements.txt”}
 streamlit
 yfinance
 pandas
@@ -6,4 +5,3 @@ numpy
 scikit-learn
 plotly
 tensorflow
-:::
